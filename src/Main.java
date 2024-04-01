@@ -9,6 +9,9 @@ public class Main {
         Cars car = new Cars();
         Bikes bike = new Bikes();
 
+        car.key();
+        bike.kick();
+
     }
 
 }
